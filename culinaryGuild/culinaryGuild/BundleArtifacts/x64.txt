@@ -1,0 +1,2 @@
+MainPackage=D:\Projects\Culinary Guild\culinaryGuild\culinaryGuild\bin\x64\Release\culinaryGuild_1.0.6.0_x64.msix
+SymbolPackage=D:\Projects\Culinary Guild\culinaryGuild\culinaryGuild\obj\x64\Release\Symbols\culinaryGuild_1.0.6.0_x64.appxsym

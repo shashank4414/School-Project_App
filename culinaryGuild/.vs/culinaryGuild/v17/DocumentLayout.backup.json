@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Culinary Guild\\culinaryGuild\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|d:\\projects\\culinary guild\\culinaryguild\\culinaryguild\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\signup.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\thanks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\thanks.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\contact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\thanks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\thanks.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryguild\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AD3F9212-4A0B-4853-9E6D-227DC028F1A2}|culinaryGuild\\culinaryGuild.csproj|solutionrelative:culinaryguild\\signup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SignUp.xaml",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\SignUp.xaml",
+              "RelativeDocumentMoniker": "culinaryGuild\\SignUp.xaml",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\SignUp.xaml",
+              "RelativeToolTip": "culinaryGuild\\SignUp.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T23:50:30.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thanks.xaml",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Thanks.xaml",
+              "RelativeDocumentMoniker": "culinaryGuild\\Thanks.xaml",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Thanks.xaml",
+              "RelativeToolTip": "culinaryGuild\\Thanks.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T23:51:29.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Thanks.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Thanks.xaml.cs",
+              "RelativeDocumentMoniker": "culinaryGuild\\Thanks.xaml.cs",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Thanks.xaml.cs",
+              "RelativeToolTip": "culinaryGuild\\Thanks.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvy4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:34:07.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\MainPage.xaml",
+              "RelativeDocumentMoniker": "culinaryGuild\\MainPage.xaml",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\MainPage.xaml",
+              "RelativeToolTip": "culinaryGuild\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T23:33:32.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\SignUp.xaml.cs",
+              "RelativeDocumentMoniker": "culinaryGuild\\SignUp.xaml.cs",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\SignUp.xaml.cs",
+              "RelativeToolTip": "culinaryGuild\\SignUp.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwB8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:13:23.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.xaml",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Contact.xaml",
+              "RelativeDocumentMoniker": "culinaryGuild\\Contact.xaml",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Contact.xaml",
+              "RelativeToolTip": "culinaryGuild\\Contact.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T23:51:01.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Contact.xaml.cs",
+              "RelativeDocumentMoniker": "culinaryGuild\\Contact.xaml.cs",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Contact.xaml.cs",
+              "RelativeToolTip": "culinaryGuild\\Contact.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAD4vyQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T03:17:13.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "culinaryGuild\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\MainPage.xaml.cs",
+              "RelativeToolTip": "culinaryGuild\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:36:07.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Home.xaml",
+              "RelativeDocumentMoniker": "culinaryGuild\\Home.xaml",
+              "ToolTip": "D:\\Projects\\Culinary Guild\\culinaryGuild\\culinaryGuild\\Home.xaml",
+              "RelativeToolTip": "culinaryGuild\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T23:53:01.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

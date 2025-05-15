@@ -1,0 +1,1 @@
+D:\Projects\Culinary Guild\culinaryGuild\culinaryGuild\culinaryGuild.csproj;x64

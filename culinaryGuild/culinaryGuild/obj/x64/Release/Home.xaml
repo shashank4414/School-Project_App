@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="culinaryGuild.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:culinaryGuild"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <Grid x:ConnectionId='2' x:Name="grdHome" MaxWidth="900">
+        <StackPanel x:ConnectionId='3' x:Name="stackHome" Width="350" MinWidth="200" MaxWidth="350">
+            <Image x:ConnectionId='4' x:Name="imgReading" Source="/Assets/ai-generated-8807332_1280.png" Margin="0,50,0,30" MaxWidth="200" MinWidth="150" Width="150"/>
+            <TextBlock x:ConnectionId='5' x:Name="txtHeading" TextWrapping="Wrap" Text="Welcome to the Culinary Explorers Guild!" MinWidth="200" MaxWidth="300" HorizontalAlignment="Left" FontSize="16" Margin="0,0,0,20" FontWeight="Bold"/>
+            <TextBlock x:ConnectionId='6' x:Name="txtContent" TextWrapping="Wrap" HorizontalAlignment="Center" FontSize="14"><Run FontWeight="Bold" Text="Discover the World of Culinary Arts"/><LineBreak/><Run/><LineBreak/><Run Text="Welcome to the Culinary Explorers Guild, your ultimate destination for all things food and cooking. Whether you're a seasoned chef or a kitchen novice, our community is here to inspire, educate, and celebrate your culinary journey."/><LineBreak/><Run/><LineBreak/><Run FontWeight="Bold" Text="Join us on a delectable adventure"/><Run Text=" as we explore the vibrant and diverse world of culinary arts. Our guild is more than just a club—it's a community of passionate food enthusiasts who share a common love for creating and savoring delicious dishes. From classic recipes handed down through generations to innovative culinary creations, there's something for everyone at the Culinary Explorers Guild."/><LineBreak/><Run/></TextBlock>
+        </StackPanel>
+
+    </Grid>
+    
+
+
+</Page>
+
+
+
+<!--<Image x:Name="imgReading" HorizontalAlignment="Center" Height="165" Margin="0,123,0,0" VerticalAlignment="Top" Width="140" Source="/Assets/ai-generated-8807332_1280.png"/>
+<TextBlock x:Name="txtHeading" HorizontalAlignment="Center" Margin="0,40,0,0" TextWrapping="Wrap" Text="Welcome to the Culinary Explorers Guild!" VerticalAlignment="Top" Height="70" Width="360" TextAlignment="Center" FontWeight="Bold" FontSize="20"/>
+<TextBlock x:Name="txtContent" HorizontalAlignment="Left" Margin="38,305,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="405" Width="360" FontSize="16" SelectionChanged="textBlock_SelectionChanged_1"><Run FontWeight="Bold" Text="Discover the World of Culinary Arts"/><LineBreak/><Run Text="Welcome to the Culinary Explorers Guild, your ultimate destination for all things food and cooking. Whether you're a seasoned chef or a kitchen novice, our community is here to inspire, educate, and celebrate your culinary journey."/><LineBreak/><Run/><LineBreak/><Run FontWeight="Bold" Text="Join us on a delectable adventure"/><Run Text=" as we explore the vibrant and diverse world of culinary arts. Our guild is more than just a club—it's a community of passionate food enthusiasts who share a common love for creating and savoring delicious dishes. From classic recipes handed down through generations to innovative culinary creations, there's something for everyone at the Culinary Explorers Guild."/></TextBlock>-->
+

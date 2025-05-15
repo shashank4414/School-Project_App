@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="culinaryGuild.Contact"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:culinaryGuild"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="grdContact">
+        <ScrollViewer x:Name="scrlContact" Height="640" Width="1024" HorizontalAlignment="Center">
+            <StackPanel x:Name="stackForm" Orientation="Vertical" Width="400" HorizontalAlignment="Center">
+                <StackPanel x:Name="stackSignUp" Width="400" Margin="0,10,0,0" HorizontalAlignment="Center">
+                    <TextBlock x:Name="txtHeading" TextWrapping="Wrap" Text="Contact us for any questions" Margin="45,50,45,5" FontSize="18" FontWeight="Bold"/>
+                    <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="Email: culinaryguild@gmail.com" Margin="45,0,45,50"/>
+                    <TextBlock x:Name="txtInfo" TextWrapping="Wrap" Text="Please fill your information and message below:" Margin="45,0,45,15"/>
+                    <TextBox x:Name="txtName" TextWrapping="Wrap" Text="" PlaceholderText="Name" Margin="45,0,45,15" TabIndex="5"/>
+                    <TextBox x:Name="txtEmail1" TextWrapping="Wrap" Text="" PlaceholderText="Email" Margin="45,0,45,15" TabIndex="10"/>
+                    <TextBox x:Name="txtMessage" TextWrapping="Wrap" Text="" PlaceholderText="Message" Margin="45,0,45,15" TabIndex="15"/>
+                    <Button x:Name="button" Content="Send" Margin="45,30,0,0" Click="button_Click"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>
